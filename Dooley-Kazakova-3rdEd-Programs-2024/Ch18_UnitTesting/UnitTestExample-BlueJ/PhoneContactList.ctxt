@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PhoneContactList()
+comment0.text=\nConstructors\ for\ objects\ of\ class\ PhoneContactList\n\n
+comment1.params=pc
+comment1.target=PhoneContactList(PhoneContact)
+comment2.params=name
+comment2.target=boolean\ fileOpen(String)
+numComments=3

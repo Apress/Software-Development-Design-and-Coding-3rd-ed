@@ -1,0 +1,7 @@
+java.lang.NumberFormatException: WCA
+	at java.lang.Float.valueOf(Float.java:125)
+	at java.lang.Float.<init>(Float.java:194)
+	at Kid.<init>(Kid.java:16)
+	at KidData.<init>(KidData.java:13)
+	at InterpDemo.<init>(InterpDemo.java:28)
+	at InterpDemo.main(InterpDemo.java:41)

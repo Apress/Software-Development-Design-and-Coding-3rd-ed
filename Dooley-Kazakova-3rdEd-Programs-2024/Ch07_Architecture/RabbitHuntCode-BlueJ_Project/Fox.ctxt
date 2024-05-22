@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ Fox
+comment0.text=\nRepresents\ a\ fox.\n\n@author\ David\ Matuszek\n@version\ October\ 12,\ 2001\n\n
+comment1.target=directionToRabbit
+comment2.target=distanceToRabbit
+comment3.target=canSeeRabbitNow
+comment4.params=
+comment4.target=int\ decideMove()
+comment4.text=\nControls\ the\ movement\ of\ the\ fox.\n\n@return\ the\ direction\ in\ which\ the\ fox\ wishes\ to\ move.\n\n
+comment5.params=model\ row\ column
+comment5.target=Fox(Model,int,int)
+comment5.text=\nConstructs\ a\ Fox\ in\ the\ given\ model,\ at\ the\ given\ position\nin\ the\ field.\n\n@param\ model\ \ the\ model\ that\ controls\ this\ fox.\n@param\ row\ \ \ \ the\ row\ of\ the\ field\ containing\ this\ fox.\n@param\ column\ the\ column\ of\ the\ field\ containing\ this\ fox.\n\n
+comment6.target=currentDirection
+comment7.target=haveSeenRabbit
+numComments=8

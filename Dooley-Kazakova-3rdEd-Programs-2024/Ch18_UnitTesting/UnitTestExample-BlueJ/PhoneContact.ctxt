@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PhoneContact()
+comment0.text=\nConstructors\ for\ objects\ of\ class\ PhoneContact\n\n
+comment1.params=firstName\ lastName\ phoneNumber\ emailAddr
+comment1.target=PhoneContact(String,\ String,\ String,\ String)
+comment10.params=emailAddr
+comment10.target=void\ setEmailAddr(String)
+comment2.target=String\ getName()
+comment2.text=\nGetter\ and\ Setter\ methods\ for\ each\ of\ the\ instance\ variables\n\n
+comment3.target=String\ getLastName()
+comment4.target=String\ getFirstName()
+comment5.target=String\ getPhoneNum()
+comment6.target=String\ getEmailAddr()
+comment7.params=lastName
+comment7.target=void\ setLastName(String)
+comment8.params=firstName
+comment8.target=void\ setFirstName(String)
+comment9.params=phoneNumber
+comment9.target=void\ setPhoneNum(String)
+numComments=11

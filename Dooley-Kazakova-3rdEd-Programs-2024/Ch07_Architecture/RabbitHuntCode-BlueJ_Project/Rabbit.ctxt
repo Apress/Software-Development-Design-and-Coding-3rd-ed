@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=class\ Rabbit
+comment1.params=
+comment1.target=int\ decideMove()
+comment2.params=model\ row\ column
+comment2.target=Rabbit(Model,int,int)
+numComments=3

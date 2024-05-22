@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=class\ Animal
+comment0.text=\nRepresents\ an\ animal.\n\n@author\ David\ Matuszek\n@version\ October\ 12,\ 2001\n\n
+comment1.params=direction
+comment1.target=int\ distance(int)
+comment1.text=\nFinds\ the\ distance\ to\ the\ first\ visible\ thing\ in\ the\ given\ndirection,\ starting\ from\ this\ animal's\ current\ position.\n\n@param\ direction\ the\ direction\ in\ which\ to\ look\n@return\ the\ distance\ to\ the\ object\ seen\n\n
+comment10.target=randomNumberGenerator
+comment2.params=model\ row\ column
+comment2.target=Animal(Model,int,int)
+comment2.text=\nConstructor\ for\ objects\ of\ class\ Animal.\n\n@param\ model\ \ the\ model\ (needed\ to\ use\ Model.look\ and\ Model.move\ methods\n@param\ row\ \ the\ row\ of\ the\ field\ in\ which\ to\ place\ this\ animal\n@param\ column\ \ the\ column\ of\ the\ field\ in\ which\ to\ place\ this\ animal\n\n
+comment3.params=min\ max
+comment3.target=int\ random(int,int)
+comment3.text=\nUtility\ method\ to\ choose\ a\ random\ integer\ from\ min\nto\ max,\ inclusive.\n\n@param\ min\ \ the\ minimum\ value\ to\ be\ returned\n@param\ max\ \ the\ maximum\ value\ to\ be\ returned\n@return\ a\ random\ integer\ N,\ where\ min\ &lt;\=\ N\ &lt;\=\ max\n\n
+comment4.target=column
+comment4.text=The\ column\ of\ the\ field\ containing\ this\ animal\ (do\ not\ modify\!)\ \n
+comment5.params=
+comment5.target=int\ decideMove()
+comment5.text=\nDecides\ what\ direction\ to\ move\ next.\n\n@return\ the\ desired\ direction\n\n
+comment6.target=model
+comment7.params=direction
+comment7.target=boolean\ canMove(int)
+comment7.text=\nDetermines\ whether\ this\ animal\ can\ move\ one\ step\ in\ the\ngiven\ direction.\ An\ animal\ cannot\ move\ off\ the\ edge\ of\nthe\ array\ or\ onto\ a\ bush,\ but\ it\ <i>can</i>\ move\ onto\nanother\ animal.<p>\nIf\ we\ extend\ this\ program\ to\ allow\ multiple\ rabbits\ or\nmultiple\ foxes,\ we\ should\ disallow\ an\ animal\ moving\ onto\nanother\ animal\ of\ the\ same\ type.\n\n@param\ direction\ the\ direction\ in\ which\ to\ consider\ moving\n@return\ true\ if\ the\ move\ is\ possible\n\n
+comment8.params=direction
+comment8.target=int\ look(int)
+comment8.text=\nFinds\ the\ first\ visible\ thing\ in\ the\ given\ direction,\ starting\nfrom\ this\ animal's\ current\ position.\n\n@param\ direction\ the\ direction\ in\ which\ to\ look\n@return\ the\ object\ seen\n\n
+comment9.target=row
+comment9.text=The\ row\ of\ the\ field\ containing\ this\ animal\ (do\ not\ modify\!)\ \n
+numComments=11

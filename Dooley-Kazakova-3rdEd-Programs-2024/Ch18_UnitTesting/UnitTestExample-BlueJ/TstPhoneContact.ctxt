@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TstPhoneContact()
+comment0.text=\n\ Default\ constructor\ for\ test\ class\ TestPhoneContact\n
+comment1.params=
+comment1.target=void\ testPhoneContactCreation()
+comment2.params=
+comment2.target=void\ testFileOpen()
+numComments=3

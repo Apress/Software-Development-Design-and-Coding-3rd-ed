@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=TestPhoneContact(String)
+comment0.text=\nDefault\ constructor\ for\ test\ class\ TestPhoneContact\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\nCalled\ before\ every\ test\ case\ method.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testPhoneContactCreation()
+comment4.target=void\ testFileOpen()
+numComments=5

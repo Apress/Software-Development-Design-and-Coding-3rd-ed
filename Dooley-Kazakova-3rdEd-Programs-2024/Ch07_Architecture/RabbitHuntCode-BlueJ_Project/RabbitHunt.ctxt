@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ RabbitHunt
+comment0.text=\nDescribes\ a\ "rabbit\ hunt",\ in\ which\ a\ fox\ moves\ around\ a\ field\ncontaining\ bushes,\ looking\ for\ a\ rabbit.\ The\ rabbit,\ of\ course,\ntries\ not\ to\ be\ caught\ by\ the\ fox.\n\n@author\ David\ Matuszek\n@version\ October\ 12,\ 2001\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+comment1.text=\nMain\ class\ for\ starting\ a\ rabbit\ hunt;\ no\ parameters\nare\ needed\ or\ used.\n\n
+comment2.target=controller
+comment3.target=view
+comment4.target=numberOfColumns
+comment5.target=model
+comment6.target=numberOfRows
+comment7.target=field
+numComments=8

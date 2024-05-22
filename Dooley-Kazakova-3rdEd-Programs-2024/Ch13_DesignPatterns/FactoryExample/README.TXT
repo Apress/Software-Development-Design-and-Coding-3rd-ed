@@ -1,0 +1,6 @@
+
+PROJECT TITLE: Ice Cream Factory
+PURPOSE OF PROJECT: Factory Design Pattern Example
+VERSION or DATE: 05/2011
+HOW TO START THIS PROJECT: java IceCreamStore
+USER INSTRUCTIONS:

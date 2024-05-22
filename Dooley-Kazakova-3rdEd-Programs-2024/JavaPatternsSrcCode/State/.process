@@ -1,0 +1,37 @@
+
+Visual SlickEdit Process Shell for Windows NT Copyright (c) 1994-1996
+
+If a program prompts for input, you will need to uniconize the Visual
+SlickEdit Process DOS box and type in your response there.
+
+D:\projects\PatternJava\Programs\State>javac -deprecation D:\projects\PatternJava\Programs\State\Mediator.java
+D:\projects\PatternJava\Programs\State\Mediator.java:105: Undefined variable: selectedRectangle
+   visRectangle lastPick = selectedRectangle;
+                           ^
+D:\projects\PatternJava\Programs\State\Mediator.java:112: Undefined variable: selectedRectangle
+       selectedRectangle = v; //save it
+       ^
+D:\projects\PatternJava\Programs\State\Mediator.java:113: Undefined variable: rectSelected
+       rectSelected = true;
+       ^
+D:\projects\PatternJava\Programs\State\Mediator.java:114: Undefined variable: selectedRectangle
+       if(selectedRectangle != lastPick)  //but don't save twice
+          ^
+D:\projects\PatternJava\Programs\State\Mediator.java:127: Undefined variable: rectSelected
+ rectSelected = false;
+ ^
+D:\projects\PatternJava\Programs\State\Mediator.java:128: Undefined variable: selectedRectangle
+ selectedRectangle = null;
+ ^
+D:\projects\PatternJava\Programs\State\Mediator.java:139: Undefined variable: rectSelected
+ if(rectSelected)
+    ^
+D:\projects\PatternJava\Programs\State\Mediator.java:141: Undefined variable or class name: selectedRectangle
+  if(selectedRectangle.contains(x, y))
+     ^
+D:\projects\PatternJava\Programs\State\Mediator.java:143: Undefined variable or class name: selectedRectangle
+      selectedRectangle.move(x,y);
+      ^
+9 errors
+
+D:\projects\PatternJava\Programs\State>

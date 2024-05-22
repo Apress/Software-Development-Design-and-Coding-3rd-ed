@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=class\ Grader
+comment0.text=\nExecutes\ a\ number\ of\ "rabbit\ hunts",\ in\ which\ a\ fox\ moves\ around\ a\ field\ncontaining\ bushes,\ looking\ for\ a\ rabbit,\ and\ prints\ out\ the\ percentage\nof\ times\ that\ the\ rabbit\ escapes.\n\n@author\ David\ Matuszek\n@version\ October\ 24,\ 2001\n\n
+comment1.params=
+comment1.target=void\ countGames()
+comment1.text=\nRuns\ NUMBER_OF_TRIALS\ rabbit\ hunts,\ and\ prints\ out\ the\nresults\ as\ a\ percentage\ of\ times\ the\ rabbit\ escapes.\n\n
+comment2.target=numberOfRows
+comment3.params=args
+comment3.target=void\ main(String[])
+comment3.text=\nMain\ class\ for\ starting\ rabbit\ hunts\ and\ counting\ games.\n\n
+comment4.target=model
+comment5.target=controller
+comment6.target=view
+comment7.target=field
+comment8.target=NUMBER_OF_TRIALS
+comment9.target=numberOfColumns
+numComments=10
